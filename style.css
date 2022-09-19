@@ -7,7 +7,7 @@
 }
 
 body {
-    background-image: url(/images/pattern-background-desktop.svg);
+    background-image: url(images/pattern-background-desktop.svg);
     background-color: hsl(225, 100%, 94%);
     background-repeat: no-repeat;
     background-size: contain;
@@ -17,7 +17,7 @@ body {
 
 @media (max-width: 425px) {
     body {
-        background-image: url(/images/pattern-background-mobile.svg);
+        background-image: url(images/pattern-background-mobile.svg);
     }
 }
 
